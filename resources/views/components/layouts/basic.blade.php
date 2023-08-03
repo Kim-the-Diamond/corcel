@@ -17,6 +17,7 @@
             <div class="flex flex-row items-center gap-3">
                 <div><a href="/">Startseite</a></div>
                 <div><a href="/wiki">Wiki</a></div>
+                <div><a href="/acf">Acf</a></div>
                 <div><a href="https://heco.in/wiki-themen/">Themen</a></div>
                 <div><a href="https://zeit.heco.de/">Timecard</a></div>
                 <div><a href="https://app.heco.si/login">Prio-App</a></div>
